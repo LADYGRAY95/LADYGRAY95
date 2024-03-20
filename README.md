@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there! 👋 I’m [Youssr CHouaya~(LADYGRAY95)]
+Aspiring Computer Science student with a passion for programming and AI. Currently diving deep into the fascinating world of machine learning. 🚀
 
-<!--
-**LADYGRAY95/LADYGRAY95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me :
+🎓 Studying at [CARTHAGE UNIVERSITY /ISSAT MATEUR]
+🌱 Learning: Machine Learning, Generative AI and Neural Networks
+💡 Interested in: AI ethics, data science, and problem solving
+📫 Reach me: Connect on LinkedIn or Twitter
 
-Here are some ideas to get you started:
+Skills :
+Python 🐍
+C
+SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for Collaborations and Internships :
+I’m open to collaborating on exciting projects or exploring internship opportunities. If you’re working on something cool or need an enthusiastic teammate, let’s connect! 🤝
+
+Feel free to explore my GitHub repositories and reach out. Let’s learn, code, and build together! 🌟
+
+
