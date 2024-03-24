@@ -13,10 +13,15 @@ About Me :
 📫 Reach me: Connect on LinkedIn 
 
 Skills :
+
 Python 🐍
+
 C/C++
+
 linux
+
 HTML5
+
 SQL/DATA BASES
 
 Looking for Collaborations and Internships :
