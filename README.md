@@ -1,10 +1,10 @@
 # Hi, I'm Youssr Chouaya 👋
 
-**Full-Stack Web & Mobile Developer** · Software Engineering graduate (ISIMM) · Based in Tunisia
+**Full-Stack Web & Mobile Developer** · B.Sc in Computer Science : Software Engineering and information systems  (ISIMM) · Based in Tunisia
 
 I build end-to-end applications, from the frontend to the backend and the database, with a focus on quality, performance and user experience. I work with **React / Next.js** on the web and **Flutter** on mobile, and I integrate AI (LLM APIs, ML, NLP) where it adds real value.
 
-📍 Tunisia · 🎓 Pursuing an engineering degree at TEK-UP · 🔎 Looking for a full-time Full-Stack / Web & Mobile role in Tunis
+📍 Tunisia · 🎓 Pursuing an engineering degree at TEK-UP · 🔎 Looking for a full-time Full-Stack / Web & Mobile role in Tunis 
 
 ---
 
